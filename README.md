@@ -9,15 +9,9 @@ Resources are updated as we progress.
 
 Happy learning!
 ## Meet your trainers
-### Bryson Kimemia
-![image](https://github.com/user-attachments/assets/eb3ef003-0447-471f-ae8e-7142510169cc)
+From right: Lewis Karani, Kelvin Thiong'o, Bryson Kimemia
+![image](https://github.com/user-attachments/assets/2693f6be-54c9-48ae-858b-2cf8aad84c26)
 
-### Lewis Karani
-![image](https://github.com/user-attachments/assets/0a871a6f-e641-4b34-9a7c-161c856c611f)
-
-
-### Kelvin Thiong'o
-![Thiongo](https://github.com/user-attachments/assets/d4d0850c-69c3-4e4c-8fa7-cc84f0c68ec8)
 
 ## Before we begin
 ### Set up WSL on your windows computers and install ubuntu virtual machine from the microsoft store. If you're running a Linux platform...Awesome!!!
