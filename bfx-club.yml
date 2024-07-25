@@ -1,0 +1,17 @@
+name: bfx-club
+channels:
+  - conda-forge
+  - bioconda
+  - daler
+  - qiime2
+  - defaults
+dependencies:
+  - trimmomatic
+  - sratoolkit
+  - bbmap
+  - qiime2
+  - flye
+  - porechop
+  - fastqc
+  - spades
+  
