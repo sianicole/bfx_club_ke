@@ -8,6 +8,16 @@ It's a collaborative environment where members can learn, share knowledge, and w
 Resources are updated as we progress.
 
 Happy learning!
+## Meet your trainers
+### Bryson Kimemia
+![image](https://github.com/user-attachments/assets/eb3ef003-0447-471f-ae8e-7142510169cc)
+
+### Lewis Karani
+![IMG_20220325_122557_696](https://github.com/user-attachments/assets/fcef2c1d-bc05-4afe-b41c-eb2dde8378f7)
+
+### Kelvin Thiong'o
+![Thiongo](https://github.com/user-attachments/assets/d4d0850c-69c3-4e4c-8fa7-cc84f0c68ec8)
+
 ## Before we begin
 ### Set up WSL on your windows computers and install ubuntu virtual machine from the microsoft store. If you're running a Linux platform...Awesome!!!
 
