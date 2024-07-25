@@ -14,10 +14,12 @@ Happy learning!
 1. Open Windows Powershell as administrator( press Win + X then select "Windows PowerShell (Admin)" )
 2. Check if wsl is enabled by running the following command
 
-'''
+   '''
+
    Get-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
 
-'''
+   '''
+
 If WSL is enabled, you should see "State: Enabled" in the output.
 
 3. If not enabled you can enable it by running 
