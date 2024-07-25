@@ -9,8 +9,7 @@ To begin, install the following tools in **SEPARATE** environments:
 5. Porechop
 6. Qiime2
 7. SPAdes
-8. SRAToolkit
-9. Trimmomatic
+8. Trimmomatic
 
 **🔎 NOTE: Don't just install, google each tool to understand what they are used for!**
 
