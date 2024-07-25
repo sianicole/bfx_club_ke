@@ -72,4 +72,10 @@ or
 This is a shorthand command of "source ~/.bashrc"
 
 12. If successful you should see the name (base) displayed before your system name on the terminal
+13. Configure channels to conda by adding them to the Condarc channel list:
+```
+conda config --add channels <channel-name>
+```
+Add the 'conda-forge' and 'bioconda' channels for now; in future you may need to configure more channels as you install different packages
+14. You are now ready to tackle bfx challenges😎
     
