@@ -15,13 +15,11 @@ Happy learning!
 2. Check if wsl is enabled by running the following command:
 ```
    Get-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
-
  ```   
 If WSL is enabled, you should see "State: Enabled" in the output.
 3. If not enabled you can enable it by running the following command:
 ```
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
-
 ```
 4. Enable the Virtualization Machine Platform:
 ```
@@ -48,5 +46,27 @@ sudo apt upgrade
 wget https://github.com/conda-forge/miniforge/releases/latest/download/Mambaforge-Linux-x86_64.sh
 ```
    For Miniconda:
+   ```
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh .
+```
    
-10. 
+10. Install the downloaded package:
+```
+bash Mambaforge-Linux-x86_64.sh
+```
+or
+```
+bash Miniconda3-latest-Linux-x86_64.sh
+```
+11. Restart your terminal after installation to reload configuration files:
+```
+$SHELL
+```
+or
+```
+. ~/.bashrc
+```
+This is a shorthand command of "source ~/.bashrc"
+
+12. If successful you should see the name (base) displayed before your system name on the terminal
+    
