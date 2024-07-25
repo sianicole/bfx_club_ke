@@ -1,7 +1,8 @@
 You can install all the tools in one environment by using an environment file `yaml file` which is a configuration file used to define and create environments.
 ## How to create a yaml file
 ### Open a text editor e.g Notepad
-### Write yaml content, an example yaml file can be found here
+### Write yaml content
+An example of a yaml file can be found [here] (https://github.com/sianicole/bfx_club_ke/blob/main/bfx-club.yml))
 ### Save the file
 1. Click on File in the top menu.
 2. Select Save As.
