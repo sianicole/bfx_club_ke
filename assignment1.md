@@ -2,14 +2,15 @@
 As an aspiring bioinformatician, it's very important to familiarise yourself with some of the tools you're likely to use.
 
 To begin, install the following tools in **SEPARATE** environments:
-1. BBMap
-2. FastQC
-3. Flye
-4. Porechop
-5. Qiime 
-6. SPAdes
-7. SRAToolkit
-8. Trimmomatic
+1. sra-toolkit
+2. BBMap
+3. FastQC
+4. Flye
+5. Porechop
+6. Qiime2
+7. SPAdes
+8. SRAToolkit
+9. Trimmomatic
 
 **🔎 NOTE: Don't just install, google each tool to understand what they are used for!**
 
