@@ -13,7 +13,8 @@ Happy learning!
 ![image](https://github.com/user-attachments/assets/eb3ef003-0447-471f-ae8e-7142510169cc)
 
 ### Lewis Karani
-![IMG_20220325_122557_696](https://github.com/user-attachments/assets/fcef2c1d-bc05-4afe-b41c-eb2dde8378f7)
+![image](https://github.com/user-attachments/assets/0a871a6f-e641-4b34-9a7c-161c856c611f)
+
 
 ### Kelvin Thiong'o
 ![Thiongo](https://github.com/user-attachments/assets/d4d0850c-69c3-4e4c-8fa7-cc84f0c68ec8)
