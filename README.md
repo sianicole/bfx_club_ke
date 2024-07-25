@@ -82,5 +82,6 @@ This is a shorthand command of "source ~/.bashrc"
 conda config --add channels <channel-name>
 ```
 Add the 'conda-forge' and 'bioconda' channels for now; in future you may need to configure more channels as you install different packages
+
 14. You are now ready to tackle bfx challenges😎
     
