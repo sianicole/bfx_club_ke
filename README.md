@@ -26,7 +26,8 @@ dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux 
 ```
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 ```
-Restart your computer for changes to effect. 
+Restart your computer for changes to effect
+
 5. Set up Wsl-2 as your default after the restart by running:
 ```
 wsl --set-default-version 2
