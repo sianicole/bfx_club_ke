@@ -16,7 +16,8 @@ Happy learning!
 ```
    Get-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
  ```   
-If WSL is enabled, you should see "State: Enabled" in the output.
+If WSL is enabled, you should see "State: Enabled" in the output
+
 3. If not enabled you can enable it by running the following command:
 ```
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
