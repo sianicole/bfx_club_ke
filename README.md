@@ -9,7 +9,7 @@ Resources are updated as we progress.
 
 Happy learning!
 ## Meet your trainers
-From right: Lewis Karani, Kelvin Thiong'o, Bryson Kimemia
+### From right: Lewis Karani, Kelvin Thiong'o, Bryson Kimemia
 ![image](https://github.com/user-attachments/assets/2693f6be-54c9-48ae-858b-2cf8aad84c26)
 
 
