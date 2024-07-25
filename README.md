@@ -44,7 +44,7 @@ sudo apt upgrade
 ```
 9. Install a package manager, conda, by installing either the mamba or miniconda version to manage your packages and environments during analysis:
     
-    For Mamba:
+For Mamba:
 ```
 wget https://github.com/conda-forge/miniforge/releases/latest/download/Mambaforge-Linux-x86_64.sh
 ```
