@@ -8,7 +8,7 @@ An example of a yaml file can be found [here](https://github.com/sianicole/bfx_c
 2. Select Save As.
 3. Choose the location where you want to save the file.
 4. In the "Save as type" dropdown, select "All Files".
-5. Name your file with a .yaml or .yml extension (e.g., bfx.yaml).
+5. Name your file with a .yaml or .yml extension (e.g., <name>.yaml).
 6. Click Save.
 ### Use the yaml file to set up your environment:
 Make sure you are in the directory containing the yaml file then run the code below:
