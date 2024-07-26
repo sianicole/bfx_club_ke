@@ -1,4 +1,4 @@
-You can install all the tools in one environment by using an environment file `yaml file` which is a configuration file used to define and create environments.
+You can install all the tools in one environment by using an environment file `yaml file`, a configuration file used to define and create environments.YAML files, when used with tools like Conda or Docker, help manage dependencies to prevent conflicts between installed tools within an environment. This enables you to set up all the necessary tools for a specific analysis in one stable environment, ensuring ease of scripting and reliability. Pretty cool huh!😎
 ## How to create a yaml file
 ### Open a text editor e.g Notepad
 ### Write yaml content
