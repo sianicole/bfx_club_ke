@@ -22,3 +22,10 @@ Practice using these commands by performing the following tasks:
 3. Inside the file, list about 5 organisms (their species names) that you're interested in working with
 
 🙋🏾‍♂🙋🏾‍♀️ If you have any problems performing these tasks, reach out to any of our trainers! (Check them out [here](https://github.com/sianicole/bfx_club_ke/blob/main/README.md))
+
+# 3. Download sequences🧬
+Using your sra-toolkit, download the following sequences from SRA onto your computers:
+1. Create a directory called Bacterial-Genomics
+2. Download E. coli K12 MG1655 - Bisulfite-seq (SRR13921543) and Salmonella Typhi samples (ERR2093245)
+3. We will use these sequences for training 
+ 
