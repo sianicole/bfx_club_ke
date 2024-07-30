@@ -1,7 +1,7 @@
 Hey guys, Heres a news letter from HackBio I thought I should share wih y'all!
 
 
-Top Machine Learning and AI Skills Needed for Bioinformatics in 2024
+# Top Machine Learning and AI Skills Needed for Bioinformatics in 2024
 
 As we step into August 2024, the integration of machine learning (ML) and artificial intelligence (AI) into bioinformatics continues to grow exponentially. To stay ahead in this dynamic field, here are the top ML and AI skills you should focus on:
 
